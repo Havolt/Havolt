@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark aka @havolt. Front-end developer by day and tinkerer of [Durrower](https://durrower.com) at night
+- 👋 Hi, I’m Mark aka @havolt. Web developer by day and abandoned app alchemist by night.
 - 👀 I’m interested in technology, film, music, games, athletics and definitely programming.
 - 🌱 I’m currently learning some python to add to my growing list of HelloWorld languages.
 - 💞️ I’m looking to collaborate on games and fun new ideas for sites.
