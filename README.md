@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Mark aka @havolt. Web developer by day and abandoned app alchemist by night.
-- 👀 I’m interested in technology, film, music, games, athletics and definitely programming.
-- 🌱 I’m currently learning some python to add to my growing list of HelloWorld languages.
+- 👋 Hi, I’m Mark aka @havolt. Web developer by day and burgeoning game developer by night.
 - 💞️ I’m looking to collaborate on games and fun new ideas for sites.
 - 📫 You can reach me at markfitz815@gmail.com
 
